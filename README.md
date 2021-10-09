@@ -13,12 +13,12 @@ For the display factor, the educator was required to build 4 powerpoint, each of
 
 ###  Submission of this project
 
-[Examine My Submission](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/master/Project%201/Project%201%20for%20Submission/Saurav%20Raghuvanshi%20SQL%20submission.pdf)
+[Examine My Submission](        )
 
 ### Sets of questions
 
 Udacity also presented us with a range of questions to explore and incorporate into my Approval Of the project.
-[Check this out](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-using-Python-Nanodegree/tree/master/Project%201/Project%20Question)
+[Check this out](        )
 
 ## Project Number_One
 
@@ -30,11 +30,11 @@ In this project, the student had to make use of Python to explore data related t
 
 In this project, the candidate would just have to utilize Python as programming language to investigate data linked to bike share schemes in 3 main cities in america: Chicago, New York City, and Washington. The candidate would just have to develop code to (a) ingest the dataset and solve intriguing questions about somebody computing statistical analysis, and (b) write a piece which utilizes inputted data to create a dynamic interaction in the console to show those statistical data.
 
-[Examine mu Submission](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-using-Python-Nanodegree/tree/master/Project-2).
+[Examine mu Submission](                    ).
 ### ---------------------
 
 Look at the links regarding our study materials.
-[Look at this](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-using-Python-Nanodegree/tree/master/Python%20practice%20code)
+[Look at this](                      )
 
 ### Files Used
 

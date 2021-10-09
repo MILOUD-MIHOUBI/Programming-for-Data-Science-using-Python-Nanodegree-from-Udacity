@@ -18,7 +18,7 @@ For the display factor, the educator was required to build 4 powerpoint, each of
 ### Sets of questions
 
 Udacity also presented us with a range of questions to explore and incorporate into my Approval Of the project.
-[Check this out](        )
+[Check this out](https://github.com/MILOUD-MIHOUBI/Programming-for-Data-Science-using-Python-Nanodegree-from-Udacity-/tree/main/project_2)
 
 ## Project Number_One
 
@@ -30,11 +30,8 @@ In this project, the student had to make use of Python to explore data related t
 
 In this project, the candidate would just have to utilize Python as programming language to investigate data linked to bike share schemes in 3 main cities in america: Chicago, New York City, and Washington. The candidate would just have to develop code to (a) ingest the dataset and solve intriguing questions about somebody computing statistical analysis, and (b) write a piece which utilizes inputted data to create a dynamic interaction in the console to show those statistical data.
 
-[Examine mu Submission](                    ).
+[Examine mu Submission](https://github.com/MILOUD-MIHOUBI/Programming-for-Data-Science-using-Python-Nanodegree-from-Udacity-/tree/main/Project_1).
 ### ---------------------
-
-Look at the links regarding our study materials.
-[Look at this](                      )
 
 ### Files Used
 
@@ -58,4 +55,4 @@ This project involved refactoring Project 2 utilizing Git and GitHub with a mode
 
 The Project Submission entailed printing out a document with most of the Git commands necessary to complete the task given.
 
-[Examine My Submission](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/master/Project-3/Git%20Commands%20Documentation.pdf).
+[Examine My Submission](https://github.com/MILOUD-MIHOUBI/Programming-for-Data-Science-using-Python-Nanodegree-from-Udacity-/tree/main/Project_3).
